@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1449682563 source:c:\users\adam t\desktop\thenewbostonprograms\45.memberinitializers\main.cpp
+	<iostream>
+	"Sally.h"
+
+1449682937 c:\users\adam t\desktop\thenewbostonprograms\45.memberinitializers\sally.h
+	<iostream>
+

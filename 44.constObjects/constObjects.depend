@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1446087420 source:c:\users\adam t\desktop\thenewbostonprograms\constobjects\main.cpp
+	<iostream>
+	"Sally.h"
+
+1446075151 c:\users\adam t\desktop\thenewbostonprograms\constobjects\sally.h
+
+1446087456 source:c:\users\adam t\desktop\thenewbostonprograms\constobjects\sally.cpp
+	<iostream>
+	"Sally.h"
+
+1446083893 source:c:\users\adam t\desktop\thenewbostonprograms\44.constobjects\main.cpp
+	<iostream>
+	"Sally.h"
+
+1446071551 c:\users\adam t\desktop\thenewbostonprograms\44.constobjects\sally.h
+
+1446083856 source:c:\users\adam t\desktop\thenewbostonprograms\44.constobjects\sally.cpp
+	<iostream>
+	"Sally.h"
+
